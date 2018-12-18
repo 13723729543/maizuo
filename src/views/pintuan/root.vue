@@ -1,5 +1,5 @@
 <template>
-  <router-view></router-view>
+    <div class="pintuan">9.9拼团</div>
 </template>
 
 <script>
@@ -11,4 +11,3 @@ export default {
 <style>
 
 </style>
-
